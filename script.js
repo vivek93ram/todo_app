@@ -57,7 +57,6 @@ submitButton.addEventListener('click', e => {
 	// {
 	// 	validateInputs();
 	// }
-
 	validateInputs(validateEmpty);
 
 
